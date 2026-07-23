@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 4,
+  "versionName": "0.4.0-preview",
+  "apkUrl": "https://raw.githubusercontent.com/unique1986/BlenkBase-Mobile/main/BlenkBase-Mobile.apk",
+  "sha256": "773E5AD7AA92CE6AE44A8CD02688EF28F3053E1BC3C86C7DF35DFFE1F7C7C158",
+  "releaseNotes": "Native automatische App-Updates, manuelle Updateprüfung im Kontomenü und abgesicherte APK-Validierung."
+}
