@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "versionCode": 7,
-  "versionName": "0.6.1-preview",
-  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.6.1-preview/BlenkBase-Mobile.apk",
-  "sha256": "3B4088282424E034326E98557D7FEA16D407F75C630623BFF5E356F4CE8BED76",
-  "releaseNotes": "Sprachinstanzen werden aus allen App-Bereichen in die providerabhängige Sprachserver-Verwaltung geleitet. Native Voice-Aktionen nutzen jetzt ausschließlich die korrekten Runtime-Endpunkte; Start, Update, sicherer Stopp, Not-Stopp, Rollback und Updateprüfung sind verbunden."
+  "versionCode": 8,
+  "versionName": "0.7.0-preview",
+  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.7.0-preview/BlenkBase-Mobile.apk",
+  "sha256": "5D9C6AB47B6FE020DA67AE5768A48D46EBC4B2007FD0BDA703881C2CF206D81D",
+  "releaseNotes": "Native Blenk-Voice-Verwaltung erweitert: Konten bearbeiten, sperren und korrekte Rollen zuweisen; TeamSpeak-Räume mit Vorschau und Sicherheitskopie übernehmen; .blenkvoice-Clientprofil direkt herunterladen; Installations-, Start- und Rollback-Fortschritt zuverlässig verfolgen."
 }
