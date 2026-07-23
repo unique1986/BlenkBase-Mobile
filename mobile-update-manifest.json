@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "versionCode": 6,
-  "versionName": "0.6.0-preview",
-  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.6.0-preview/BlenkBase-Mobile.apk",
-  "sha256": "C78454937EEF012E9485D316B714052E29EAFA9F8545772DF6935C14C461979A",
-  "releaseNotes": "Native Sprachserver-Verwaltung: TeamSpeak-6-Channel, Nutzer, Servereinstellungen und Medienbots sowie blnk-Voice-Runtime, Konten, Sicherungen und Client-Verbindungen direkt mobil verwalten."
+  "versionCode": 7,
+  "versionName": "0.6.1-preview",
+  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.6.1-preview/BlenkBase-Mobile.apk",
+  "sha256": "3B4088282424E034326E98557D7FEA16D407F75C630623BFF5E356F4CE8BED76",
+  "releaseNotes": "Sprachinstanzen werden aus allen App-Bereichen in die providerabhängige Sprachserver-Verwaltung geleitet. Native Voice-Aktionen nutzen jetzt ausschließlich die korrekten Runtime-Endpunkte; Start, Update, sicherer Stopp, Not-Stopp, Rollback und Updateprüfung sind verbunden."
 }
