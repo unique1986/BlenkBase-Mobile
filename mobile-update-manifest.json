@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "versionCode": 4,
-  "versionName": "0.4.0-preview",
-  "apkUrl": "https://raw.githubusercontent.com/unique1986/BlenkBase-Mobile/main/BlenkBase-Mobile.apk",
-  "sha256": "773E5AD7AA92CE6AE44A8CD02688EF28F3053E1BC3C86C7DF35DFFE1F7C7C158",
-  "releaseNotes": "Native automatische App-Updates, manuelle Updateprüfung im Kontomenü und abgesicherte APK-Validierung."
+  "versionCode": 6,
+  "versionName": "0.6.0-preview",
+  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.6.0-preview/BlenkBase-Mobile.apk",
+  "sha256": "C78454937EEF012E9485D316B714052E29EAFA9F8545772DF6935C14C461979A",
+  "releaseNotes": "Native Sprachserver-Verwaltung: TeamSpeak-6-Channel, Nutzer, Servereinstellungen und Medienbots sowie blnk-Voice-Runtime, Konten, Sicherungen und Client-Verbindungen direkt mobil verwalten."
 }
