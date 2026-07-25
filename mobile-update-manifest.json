@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "versionCode": 10,
-  "versionName": "0.8.1-preview",
-  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.8.1-preview/BlenkBase-Mobile.apk",
-  "sha256": "09C738261C79F3CFD33004D9209294AF117508F029F66C1E64617394670D8D82",
-  "releaseNotes": "Behebt den automatischen Sitzungsabbruch durch gleichzeitige Token-Erneuerung im Vordergrund und Hintergrund. Dauerhafte Anmeldung und App-Neustart wurden mit rotierenden Sitzungstoken geprüft."
+  "versionCode": 11,
+  "versionName": "0.8.2-preview",
+  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.8.2-preview/BlenkBase-Mobile.apk",
+  "sha256": "F6F09B60872BF5F2D70E76E1FAD2BC59B85587E88D47C46C21D798EA24E8CF6C",
+  "releaseNotes": "Die App prüft nun bei jedem Start auf Updates, zeigt Version und Updateprüfung bereits am Anmeldebildschirm und lädt geprüfte APKs mit Fortschrittsanzeige direkt zum Android-Systeminstaller."
 }
