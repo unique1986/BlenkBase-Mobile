@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "versionCode": 8,
-  "versionName": "0.7.0-preview",
-  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.7.0-preview/BlenkBase-Mobile.apk",
-  "sha256": "5D9C6AB47B6FE020DA67AE5768A48D46EBC4B2007FD0BDA703881C2CF206D81D",
-  "releaseNotes": "Native Blenk-Voice-Verwaltung erweitert: Konten bearbeiten, sperren und korrekte Rollen zuweisen; TeamSpeak-Räume mit Vorschau und Sicherheitskopie übernehmen; .blenkvoice-Clientprofil direkt herunterladen; Installations-, Start- und Rollback-Fortschritt zuverlässig verfolgen."
+  "versionCode": 10,
+  "versionName": "0.8.1-preview",
+  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.8.1-preview/BlenkBase-Mobile.apk",
+  "sha256": "09C738261C79F3CFD33004D9209294AF117508F029F66C1E64617394670D8D82",
+  "releaseNotes": "Behebt den automatischen Sitzungsabbruch durch gleichzeitige Token-Erneuerung im Vordergrund und Hintergrund. Dauerhafte Anmeldung und App-Neustart wurden mit rotierenden Sitzungstoken geprüft."
 }
