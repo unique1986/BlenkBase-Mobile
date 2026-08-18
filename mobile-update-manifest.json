@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "versionCode": 13,
-  "versionName": "0.9.0-preview",
-  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.9.0-preview/BlenkBase-Mobile.apk",
-  "sha256": "9F69F3C0E8B9FD0151B977D04B6E95C409E27DB15C08A8E7E281AFF265341730",
-  "releaseNotes": "Kompatibilitätsstand für blnk Base 0.7.1-beta.23. Neue native Bereiche für Dienste, Base-Updates, Benachrichtigungen, Instanzwartung, Zeitpläne und Mods; Minecraft Bedrock und Wortwelten verwenden die richtigen Banner. Paketname und Updatesignatur bleiben vollständig kompatibel."
+  "versionCode": 14,
+  "versionName": "0.9.1-preview",
+  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.9.1-preview/BlenkBase-Mobile.apk",
+  "sha256": "2F108658EE2471CE3EC9D6C3D7719ECABF5ED90C525BD1BE07C6F7BB6A5D2989",
+  "releaseNotes": "Vollständiger Neuaufbau als echte native Kotlin-/Jetpack-Compose-App ohne WebView oder PWA-Hülle. Instanzen, Konsole, Dateien, Konfiguration, Mods, Sicherungen, Wartung, Dienste, Bibliothek, Benutzer und Rechte, System, Benachrichtigungen sowie TeamSpeak 6 und blnk Voice stehen nativ bereit. Die verschlüsselte Sitzung, Hintergrundwarnungen und der sichere APK-Updatepfad bleiben kompatibel."
 }
