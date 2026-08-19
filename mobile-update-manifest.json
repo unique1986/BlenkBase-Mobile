@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "versionCode": 14,
-  "versionName": "0.9.1-preview",
-  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.9.1-preview/BlenkBase-Mobile.apk",
-  "sha256": "2F108658EE2471CE3EC9D6C3D7719ECABF5ED90C525BD1BE07C6F7BB6A5D2989",
-  "releaseNotes": "Vollständiger Neuaufbau als echte native Kotlin-/Jetpack-Compose-App ohne WebView oder PWA-Hülle. Instanzen, Konsole, Dateien, Konfiguration, Mods, Sicherungen, Wartung, Dienste, Bibliothek, Benutzer und Rechte, System, Benachrichtigungen sowie TeamSpeak 6 und blnk Voice stehen nativ bereit. Die verschlüsselte Sitzung, Hintergrundwarnungen und der sichere APK-Updatepfad bleiben kompatibel."
+  "versionCode": 15,
+  "versionName": "0.9.2-preview",
+  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.9.2-preview/BlenkBase-Mobile.apk",
+  "sha256": "0596390B872380BF091F6993380F29127E1024C1F9401FA402F7580180869A8E",
+  "releaseNotes": "Neuer nativer Bereich Websites für den geschützten CloudPanel-Zugang auf WEB01. Die App öffnet das Portal im sicheren Systembrowser, speichert keine Gateway- oder CloudPanel-Zugangsdaten und behält alle bisherigen nativen Base-Funktionen unverändert bei."
 }
