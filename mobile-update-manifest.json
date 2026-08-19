@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "versionCode": 17,
-  "versionName": "0.9.4-preview",
-  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.9.4-preview/BlenkBase-Mobile.apk",
-  "sha256": "E45A50236BE033590766DA512E5CEDCE77A01FA7F625420BABD1EBE8B07762BE",
-  "releaseNotes": "Die automatische Updateprüfung läuft nun bei jedem Compose-App-Start und umgeht veraltete CDN-Antworten zuverlässig. Dadurch wird immer das aktuell veröffentlichte Manifest abgefragt. Der Websites-Bereich für den geschützten CloudPanel-Zugang ist enthalten."
+  "versionCode": 18,
+  "versionName": "0.9.5-preview",
+  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.9.5-preview/BlenkBase-Mobile.apk",
+  "sha256": "1C48FD72C819298550D59F429A6E63B023A7091C25572A607F6C5CF6795D7BF9",
+  "releaseNotes": "Die automatische Updateprüfung verwendet nun die GitHub-Inhalts-API mit expliziter Rohdaten- und No-Cache-Anfrage. Damit werden neue Versionen bei künftigen Prüfungen zuverlässig erkannt. Der Websites-Bereich für den geschützten CloudPanel-Zugang ist enthalten."
 }
