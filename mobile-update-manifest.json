@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "versionCode": 15,
-  "versionName": "0.9.2-preview",
-  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.9.2-preview/BlenkBase-Mobile.apk",
-  "sha256": "0596390B872380BF091F6993380F29127E1024C1F9401FA402F7580180869A8E",
-  "releaseNotes": "Neuer nativer Bereich Websites für den geschützten CloudPanel-Zugang auf WEB01. Die App öffnet das Portal im sicheren Systembrowser, speichert keine Gateway- oder CloudPanel-Zugangsdaten und behält alle bisherigen nativen Base-Funktionen unverändert bei."
+  "versionCode": 16,
+  "versionName": "0.9.3-preview",
+  "apkUrl": "https://github.com/unique1986/BlenkBase-Mobile/releases/download/v0.9.3-preview/BlenkBase-Mobile.apk",
+  "sha256": "D252848C384FD7DAA7E252222050A1D58D0624FD233D6D6FF3B413AE0FBF78F5",
+  "releaseNotes": "Behebt die fehlende automatische Updateprüfung im neuen Compose-App-Einstieg. Die App sucht nun bei jedem Start selbstständig nach einer neueren Version und zeigt sie direkt an. Der neue Websites-Bereich für den geschützten CloudPanel-Zugang ist ebenfalls enthalten."
 }
