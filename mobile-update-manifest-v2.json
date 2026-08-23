@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "versionCode": 20,
-  "versionName": "0.9.7-preview",
-  "apkUrl": "https://github.com/blnk-projects/BlenkBase-Mobile/releases/download/v0.9.7-preview/BlenkBase-Mobile.apk",
-  "sha256": "FADC9AFB096B81B192D54C28573BD0ACA23827C4C09FFF22EF3F8952410B6986",
-  "releaseNotes": "Native Funktionsparitaet zur Base-Weboberflaeche mit vollstaendiger Infrastruktur-, Instanz-, Sprachserver-, MSG-, Website-, Backup-, Benutzer-, Rollen-, System- und Einstellungsverwaltung. Einmalige Neuinstallation erforderlich, wenn noch eine Preview bis 0.9.5 installiert ist."
+  "versionCode": 21,
+  "versionName": "0.9.8-preview",
+  "apkUrl": "https://github.com/blnk-projects/BlenkBase-Mobile/releases/download/v0.9.8-preview/BlenkBase-Mobile.apk",
+  "sha256": "E589DD84ACA560A9B5587817FAFF891B0F4C933CA0BC4B643898426E2B0D9440",
+  "releaseNotes": "Neues hochwertiges blnk-Base-Turm-/Orbit-App-Icon. Die vollständige native MSG-, Dienste-, Updates-, Benachrichtigungs-, Zeitplan- und Instanzverwaltung wird mit Base 0.7.1-beta.35 serverseitig unterstützt."
 }
